@@ -4,7 +4,7 @@ This project turns an **ESP32** into a **WiFi Access Point (AP)** with a built-i
 
 ## ✨ Features  
 - 📶 **Creates a WiFi hotspot** (no external router needed).  
-- 🌍 **Hosts a simple web server** at `192.168.4.1`.  
+- 🌍 **Hosts a simple web server** at `192.168.4.1`.
 - 💡 **Control an LED** using:  
   - **Web browser**  
   - **Raw TCP commands** 
